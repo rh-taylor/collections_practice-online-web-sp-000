@@ -73,9 +73,11 @@ end
 #adds an 's' to each word in the array except the second element
 
 def add_s(array)
+  pl_array = []
   array.each_with_index do |element, index|
     if index != 1
-      puts element + "s"
+      pl_array << element + "s"
     end
+  return pl_array
   end
 end
