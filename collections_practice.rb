@@ -67,3 +67,12 @@ end
 def sum_array(array)
   array.sum  
 end
+
+
+#add_s
+#adds an 's' to each word in the array except the second element
+
+def add_s(array)
+  
+end
+
