@@ -53,9 +53,6 @@ def kesha_maker(array)
 end
 
 
-
-
-
 #find_a
 #returns all strings that start with "a"
 
